@@ -80,7 +80,7 @@ nav {
 /* SLIDER */
 
 .slider {
-  background-image: url('./img/sliderBackground.jpg');
+  /* background-image: url('./img/sliderBackground.jpg'); */
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
   background-size: 100vw;
   overflow: hidden;
